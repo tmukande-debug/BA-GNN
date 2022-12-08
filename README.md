@@ -1,6 +1,5 @@
 # BA-GNN
 
-
 ## Support
 - Python version: 3.7
 - tensorflow version: 2.3
@@ -10,6 +9,6 @@
 - REES46 (Cosmetics) https://rees46.com
 
 
-## Run:
+### Run:
 - preprocessing_data.py
 - main.py
